@@ -1,7 +1,5 @@
 
- # NBA Salary Prediction Project
- 
- The NBA is (almost) always fun to watch. I've been a basketball fan ever since 2012 when Linsanity was a big deal, and to this day I follow the NBA and all of its drama, even when recently things have been pretty boring because of the Warriors. (As of 6/5/19, I really hope the Raptors destroy them!) One matter that I was always curious about is the matter of salary. There are some superstars who get paid a crazy amount, even when some of them don't really earn it in terms of performance. On the other end of the spectrum some people make peanuts yet absolutely destroy expectations. What are the factors that truly determine how much an NBA player is paid? 
+  The NBA is (almost) always fun to watch. I've been a basketball fan ever since 2012 when Linsanity was a big deal, and to this day I follow the NBA and all of its drama, even when recently things have been pretty boring because of the Warriors. (As of 6/5/19, I really hope the Raptors destroy them!) One matter that I was always curious about is the matter of salary. There are some superstars who get paid a crazy amount, even when some of them don't really earn it in terms of performance. On the other end of the spectrum some people make peanuts yet absolutely destroy expectations. What are the factors that truly determine how much an NBA player is paid? 
 
 In this project we will find out.
 
