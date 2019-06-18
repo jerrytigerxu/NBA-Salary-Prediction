@@ -17537,7 +17537,7 @@ sns.jointplot(x='Salary', y='League Weight', data=data['player_stats'])
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_77_1.png)
+![png](images/NBA%20Salary%20Prediction_77_1.png)
 
 
 This may seem silly at first to plot league weight with salary because they basically are explaining the same thing, mainly, the amount of money a player is getting relative to the rest of the league. However, looking at this plot, we can see why the Salary variable might not be the best predictor variable. The near straight lines that can be inferred from the plot show that League Weight and Salary are almost perfectly correlated, but because of inflation and other time-related factors, the salary amount that would give a player a league weight of 0.01 in one year might give another player (or the same player) a completely different league weight in another year.
@@ -17561,7 +17561,7 @@ sns.jointplot(x='WS/48', y='League Weight', data=data['player_stats'])
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_79_1.png)
+![png](images/NBA%20Salary%20Prediction_79_1.png)
 
 
 
@@ -17579,7 +17579,7 @@ sns.jointplot(x='PTS', y='League Weight', data=data['player_stats'])
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_80_1.png)
+![png](images/NBA%20Salary%20Prediction_80_1.png)
 
 
 
@@ -17597,7 +17597,7 @@ sns.jointplot(x='VORP', y='League Weight', data=data['player_stats'])
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_81_1.png)
+![png](images/NBA%20Salary%20Prediction_81_1.png)
 
 
 
@@ -17615,7 +17615,7 @@ sns.jointplot(x='USG%', y='League Weight', data=data['player_stats'])
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_82_1.png)
+![png](images/NBA%20Salary%20Prediction_82_1.png)
 
 
 
@@ -17979,7 +17979,7 @@ plt.ylabel('Predicted Y')
 
 
 
-![png](NBA%20Salary%20Prediction_files/NBA%20Salary%20Prediction_101_1.png)
+![png](images/NBA%20Salary%20Prediction_101_1.png)
 
 
 ### Evaluation of Regression Model
